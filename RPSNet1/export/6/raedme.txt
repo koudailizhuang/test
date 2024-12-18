@@ -1,0 +1,1 @@
+yolov5n-seg,无删减层，FP32,640,640,添加新的图片之后，GPU，device=0
